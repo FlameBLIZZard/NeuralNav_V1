@@ -10,12 +10,6 @@ NeuralNav_V1 is a Unity-based game development project focused on experimenting 
 - Language: C#
 - Version Control: Git + GitHub
 
-## Repository Structure
-NeuralNav_V1/
-├── Assets/
-├── ProjectSettings/
-└── Packages/
-
 ## Goals
 - Implement navigation systems for agents
 - Explore AI / neural-inspired movement and decision-making
