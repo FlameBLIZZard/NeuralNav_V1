@@ -4,6 +4,6 @@ public class PrintPosition : MonoBehaviour
 {
 	void Start()
 	{
-		Debug.Log(transform.position);
+		Debug.Log($"World Position -> X:{transform.position.x} Y:{transform.position.y} Z:{transform.position.z}");
 	}
 }
