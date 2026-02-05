@@ -1,0 +1,20 @@
+# Ignore these folders anywhere they appear in the project
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# OS specific
+.DS_Store
+Thumbs.db
