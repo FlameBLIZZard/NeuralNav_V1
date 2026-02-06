@@ -1,6 +1,6 @@
 # Neural-Nav v1.0 | Operation Reconstruction: Project 01
 
-NeuralNav_V1 is an experimental research project focused on **decoupling AI decision-making (The Brain) from the game engine (The Body)**. This repository serves as the foundational "Handshake" project within my 360-day **Operation Reconstruction** roadmap.
+NeuralNav_V1 is a student-led research project focused on **decoupling AI decision-making (The Brain) from the game engine (The Body)**. This repository serves as the foundational "Handshake" project within my 360-day **Operation Reconstruction** roadmap.
 
 The primary objective is to establish a real-time, bidirectional communication bridge between **Unity (C#)** and a standalone **Python AI environment** using TCP/UDP sockets.
 
@@ -29,7 +29,7 @@ Current Focus: Environment stability, input handling, and coordinate streaming.
 ---
 
 ## 🏗️ Technical Hurdles & Dev Logs
-As I am currently learning the basics of Unity physics and asset optimization, I am documenting the "bruh" moments and logic shifts daily. 
+As I am currently a student learning the basics of Unity physics and asset optimization, I am documenting the "bruh" moments and logic shifts daily. 
 
 Current research topics include:
 * **Anti-Aliasing:** Resolving jagged edges on Blender-imported assets in the Game View.
@@ -48,7 +48,7 @@ Current research topics include:
 ---
 
 ## 👋 Contribution & Ideas
-I am strictly focused on building a scalable AI foundation for gameplay programming. Since I am still mastering Unity-specific pipelines, I am **open to suggestions, resources, or ideas** from anyone experienced in AI-to-Engine integration.
+I am strictly focused on building a scalable AI foundation for gameplay programming while pursuing my Computer Engineering degree. Since I am still mastering Unity-specific pipelines, I am **open to suggestions, resources, or ideas** from anyone experienced in AI-to-Engine integration.
 
 **Author:** Aditya Girish Bhoite
-**Role:** Full-Stack Developer & AI Researcher
+**Profile:** Computer Engineering Student | Aspiring AI Gameplay Programmer
